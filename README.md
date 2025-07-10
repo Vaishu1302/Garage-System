@@ -71,7 +71,7 @@ Garage-Management-System/
 ⚙️ How to Run the Project
 
 1. **Download** or **clone** this repository.
-   https://github.com/Shraddhaab12/Garage-System
+   https://github.com/Vaishu1302/Garage-System.git
 3. Extract and move the project folder into `htdocs`:
     ```
     C:\xampp\htdocs\Garage-Management-System\
